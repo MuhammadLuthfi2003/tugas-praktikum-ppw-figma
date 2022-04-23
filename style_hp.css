@@ -1,0 +1,963 @@
+body {
+    margin:0px;
+    padding:0px;
+}
+
+.text-bold {
+  font-weight:bold;
+}
+
+.footer-link {
+  text-decoration:none;
+  color:#ffffff;
+}
+
+.footer-link:hover {
+  color : #3F55A3;
+}
+
+.title-join-header {
+  position: absolute;
+  width: 231px;
+  height: 39px;
+  left: 92px;
+  top: 153px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  
+  /* identical to box height */
+  
+  background: linear-gradient(90deg, #3F55A3 2.62%, #859DF3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.title-join-subtitle {
+  position: absolute;
+  width: 366px;
+  height: 39px;
+  left: 25px;
+  top: 194px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  
+  /* identical to box height */
+  
+  background: linear-gradient(90deg, #3F55A3 0%, #829BF0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.smallbox {
+  border-radius:10px;
+}
+
+.why-dekiru {
+  position: absolute;
+  width: 411px;
+  height: 98px;
+  left: 6px;
+  top: 704px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  text-align: center;
+
+  background: linear-gradient(90deg, #8AA0EC 0%, #3F55A3 88.81%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.curriculum {
+  position: absolute;
+  width: 323px;
+  height: 49px;
+  left: 51px;
+  top: 1560px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  /* identical to box height */
+
+
+  background: linear-gradient(90deg, #8AA0EC 0%, #3F55A3 88.81%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.join-header {
+  position: absolute;
+  width: 378px;
+  height: 312px;
+  left: 17px;
+  top: 2966px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 78px;
+  text-align: center;
+
+  background: linear-gradient(90deg, #788ED9 -2.34%, #3F55A3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.join-subtitle {
+  position: absolute;
+  width: 311px;
+  height: 147px;
+  left: 53px;
+  top: 3291px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 49px;
+  text-align: center;
+
+  background: linear-gradient(90deg, #3F55A3 0%, #8AA0EC 103.56%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.i-phone8plus1235113-i-phone8plus1235113 {
+    width: 414px;
+    height: 4508px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 414px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .i-phone8plus1235113-image {
+    top: 286px;
+    left: 32px;
+    width: 350px;
+    height: 215px;
+    position: absolute;
+    box-shadow: 4px 4px 10px 5px rgba(0, 0, 0, 0.25) ;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 57px;
+  }
+  .i-phone8plus1235113-svg {
+    top: 258px;
+    left: 25px;
+    width: 366;
+    height: 5px;
+    position: absolute;
+  }
+  .i-phone8plus1235113-svg1 {
+    top: 828px;
+    left: 25px;
+    width: 366;
+    height: 5px;
+    position: absolute;
+  }
+  .i-phone8plus1235113-svg2 {
+    top: 1624px;
+    left: 25px;
+    width: 366;
+    height: 5px;
+    position: absolute;
+  }
+  .i-phone8plus1235113-group623817 {
+    top: 549px;
+    left: 87px;
+    width: 248px;
+    height: 86px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: rgba(138, 160, 236, 1);
+    border-radius:10px;
+  }
+  
+  .i-phone8plus1235113-text {
+    top: 4px;
+    left: 24px;
+    color: rgba(255, 255, 255, 1);
+    width: 128px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-group523816 {
+    top: 17px;
+    left: 170px;
+    width: 52px;
+    height: 52px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .i-phone8plus1235113-play23813 {
+    top: 10px;
+    left: 10px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image01 {
+    top: 0px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-svg3 {
+    top: 4px;
+    left: 10px;
+    width: 16;
+    height: 24;
+    position: absolute;
+  }
+  .i-phone8plus1235113-text01 {
+    top: 856px;
+    left: 79px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text02 {
+    top: 1020px;
+    left: 75px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text03 {
+    top: 1154px;
+    left: 73px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text04 {
+    top: 1342px;
+    left: 73px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text05 {
+    top: 895px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 338px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text06 {
+    top: 1059px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 338px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text07 {
+    top: 1223px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 338px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text08 {
+    top: 1416px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 334px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-image02 {
+    top: 1693px;
+    left: 108px;
+    width: 166px;
+    height: 166px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image03 {
+    top: 1924px;
+    left: 108px;
+    width: 188px;
+    height: 188px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image04 {
+    top: 2177px;
+    left: 108px;
+    width: 189px;
+    height: 189px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image05 {
+    top: 2431px;
+    left: 108px;
+    width: 189px;
+    height: 189px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image06 {
+    top: 2685px;
+    left: 108px;
+    width: 192px;
+    height: 192px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image07 {
+    top: 3476px;
+    left: 48px;
+    width: 317px;
+    height: 86px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 15px;
+    background-color: rgba(138, 160, 236, 1);
+  }
+  .i-phone8plus1235113-text09 {
+    top: 3499px;
+    left: 66px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-image08 {
+    top: 3493px;
+    left: 290px;
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.034980401396751404) ;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 16px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .i-phone8plus1235113-play23840 {
+    top: 3503px;
+    left: 300px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image09 {
+    top: 0px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-svg4 {
+    top: 4px;
+    left: 10px;
+    width: 16;
+    height: 24;
+    position: absolute;
+  }
+  .i-phone8plus1235113-image10 {
+    top: 3910px;
+    left: 0px;
+    width: 414px;
+    height: 598px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: rgba(62, 84, 162, 1);
+  }
+  .i-phone8plus1235113-image11 {
+    top: 3626px;
+    left: 0px;
+    width: 414px;
+    height: 823px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-group323845 {
+    top: 3663px;
+    left: 30px;
+    width: 94px;
+    height: 94.20779418945312px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-svg5 {
+    width: 94;
+    height: 94;
+    position: absolute;
+  }
+  .i-phone8plus1235113-image12 {
+    top: 5.652422904968262px;
+    left: 10.362775802612305px;
+    width: 79px;
+    height: 79px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-text10 {
+    top: 3670px;
+    left: 155px;
+    color: rgba(255, 255, 255, 1);
+    width: 232px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text14 {
+    top: 3820px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text15 {
+    top: 3925px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text16 {
+    top: 3872px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text17 {
+    top: 3872px;
+    left: 229px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text18 {
+    top: 3925px;
+    left: 230px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text19 {
+    top: 3978px;
+    left: 230px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text20 {
+    top: 4031px;
+    left: 229px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text21 {
+    top: 3820px;
+    left: 229px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text22 {
+    top: 4151px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text23 {
+    top: 4198px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text24 {
+    top: 4251px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text25 {
+    top: 4304px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text26 {
+    top: 4356px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text27 {
+    top: 4099px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text28 {
+    top: 4151px;
+    left: 229px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text29 {
+    top: 4200px;
+    left: 230px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text30 {
+    top: 4099px;
+    left: 229px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-text31 {
+    top: 4467px;
+    left: 66px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-image13 {
+    top: 0px;
+    left: -51px;
+    width: 508px;
+    height: 110px;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: rgba(62, 84, 162, 1);
+  }
+  .i-phone8plus1235113-group3236115 {
+    top: 23px;
+    left: 19px;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-svg6 {
+    width: 65;
+    height: 65;
+    position: absolute;
+  }
+  .i-phone8plus1235113-image14 {
+    top: 3.899991989135742px;
+    left: 7.149951934814453px;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-text32 {
+    top: 30px;
+    left: 105px;
+    color: rgba(255, 255, 255, 1);
+    width: 203px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .i-phone8plus1235113-group42385 {
+    top: 35px;
+    left: 342px;
+    width: 41px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .i-phone8plus1235113-image15 {
+    top: 0px;
+    left: 0px;
+    width: 41px;
+    height: 9px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 10px;
+    background-image: linear-gradient(0deg, rgba(198, 210, 250, 1) 0%, rgba(103, 137, 254, 1) 100%);
+  }
+  .i-phone8plus1235113-image16 {
+    top: 31.538461685180664px;
+    left: 4.547473508864641e-13px;
+    width: 41px;
+    height: 9px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 10px;
+    background-image: linear-gradient(0deg, rgba(198, 210, 250, 1) 0%, rgba(103, 137, 254, 1) 100%);
+  }
+  .i-phone8plus1235113-image17 {
+    top: 15.769230842590332px;
+    left: 4.547473508864641e-13px;
+    width: 41px;
+    height: 9px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 10px;
+    background-image: linear-gradient(0deg, rgba(198, 210, 250, 1) 0%, rgba(103, 137, 254, 1) 100%);
+  }
+  
+  .navbar {
+    top:0;
+    left:0;
+    position:sticky;
+  }
